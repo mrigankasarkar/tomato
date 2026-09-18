@@ -1,0 +1,6 @@
+{
+  "name": "Tomato",
+  "description": "Hot food, at your door in 30 minutes. Order fresh pizza, burgers, Asian bowls, healthy salads, desserts, and drinks with Tomato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
